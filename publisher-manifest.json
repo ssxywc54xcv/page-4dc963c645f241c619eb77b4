@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1f67a015edf07653afafff53",
+  "owner": "ssxywc54xcv",
+  "repo": "page-4dc963c645f241c619eb77b4",
+  "title": "clashmeta",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4dc963c645f241c619eb77b4",
+      "a": "clashmeta",
+      "b": "",
+      "entity": "clashmeta",
+      "brand": "clashmeta",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d55730cd45d0bc40d63dc1ef218d2db4ccc1e76113cb1b4e97f6d82fc23c8609",
+      "content": {
+        "keyword1": "clashmeta",
+        "keyword2": "",
+        "primary_entity": "clashmeta",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmeta 提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版的流量与设备额度，并指导按系统选择客户端、导入订阅和完成日常连接。",
+          "AI_DESCRIPTION": "clashmeta 提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版的流量与设备额度，并指导按系统选择客户端、导入订阅和完成日常连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#FFF6F1;color:#241C19;font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif;font-size:17px;line-height:1.75}a{color:#9E3A2A}a:focus-visible{outline:2px solid #C4543E;outline-offset:2px}.wrap{width:min(1080px,calc(100% - 32px));margin:0 auto}header{border-bottom:1px solid #F0D9D1}.bar{width:min(1080px,calc(100% - 32px));margin:0 auto;padding:16px 0;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px}.logo{font-weight:700;color:#241C19;text-decoration:none;letter-spacing:.04em}nav{display:flex;flex-wrap:wrap;gap:8px 16px}nav a{color:#5C4A44;text-decoration:none;font-size:15px}.hero{padding:88px 0 52px}.eyebrow{margin:0 0 18px;color:#C4543E;font-size:14px;letter-spacing:.14em}h1{margin:0 0 18px;font-size:3rem;line-height:1.12;font-weight:700}h2{margin:8px 0 12px;font-size:1.65rem;line-height:1.3}h3{margin:0 0 8px;font-size:1.12rem;line-height:1.4}p{margin:0 0 12px}.lead{max-width:40rem;margin:0;font-size:1.12rem;color:#3E322E}.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}.btn{display:inline-block;padding:12px 18px;border-radius:999px;text-decoration:none;font-size:16px}.btn-primary{background:#B84332;color:#fff}.btn-ghost{background:#fff;color:#B84332;border:1px solid #E7B2A6}section{padding:26px 0 8px}.panel{background:#FFF1EC;border-radius:20px;padding:22px 16px 10px}.grid,.clients,.plans,.steps{display:grid;gap:14px}.card,.client,.plan,.step,details{background:#fff;border:1px solid #F0D9D1;border-radius:16px}.card,.client,.plan,.step{padding:16px 16px 8px}.client{border-top:4px solid #E07A5F}.tag{display:inline-block;margin:0 0 8px;padding:2px 8px;border-radius:999px;background:#FDE8E3;color:#9E3A2A;font-size:13px}.plan{display:flex;flex-direction:column}.plan.featured{border-color:#E07A5F;box-shadow:0 0 0 2px #F6C7BC}.price{margin:4px 0;font-size:1.75rem;font-weight:700;color:#B84332}.annual{color:#6B564F;font-size:15px}ul,ol{margin:8px 0 14px;padding-left:1.2em}li{margin:6px 0}details{margin:10px 0;padding:12px 16px}summary{font-weight:600;cursor:pointer}footer{margin-top:28px;padding:24px 0 40px;border-top:1px solid #F0D9D1;color:#6B564F;font-size:14px}@media(min-width:720px){.grid,.clients{grid-template-columns:1fr 1fr}.plans{grid-template-columns:1fr 1fr 1fr}}@media(max-width:719px){h1{font-size:2.05rem}.hero{padding:48px 0 28px}.price{font-size:1.45rem}}</style><header><div class=\"bar\"><a class=\"logo\" href=\"#top\">clashmeta</a><nav><a href=\"#about\">简介</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#plans\">订阅</a><a href=\"#guide\">操作</a><a href=\"#faq\">问答</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><section class=\"hero\"><p class=\"eyebrow\">机场订阅 · VPN · 网络加速</p><h1>clashmeta 机场</h1><p class=\"lead\">clashmeta 把套餐额度、线路用途和客户端选择写在同一页。按设备导入订阅后，即可在浏览、流媒体和游戏场景之间切换节点，而不是把加速器当成一个无法解释的黑盒。</p><div class=\"actions\"><a class=\"btn btn-primary\" href=\"#clients\">先选择客户端</a><a class=\"btn btn-ghost\" href=\"#plans\">查看机场订阅</a></div></section><section id=\"about\"><h2>品牌简介</h2><p>clashmeta 是面向多设备的机场订阅与 VPN 加速服务。订阅负责提供节点列表和流量额度，安装在电脑或手机上的客户端负责规则分流、系统代理和节点切换。二者需要一起使用：只有客户端而没有有效订阅，列表通常是空的；只有订阅而不安装客户端，线路也无法在本机生效。</p><p>本页作为 clashmeta 官网的使用说明，公开基础版、旗舰版和团队版的价格与包含项目。若你习惯把同类工具叫做加速器，可以把它理解为带月度流量和设备上限的网络加速服务，而不是只针对某一款游戏的单机加速器。线路表现受本地运营商、时段和目标网站影响，页面不把某一时刻的延迟写成固定承诺。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><article class=\"card\"><h3>跨境办公与学习</h3><p>文档、会议和代码仓库需要稳定出境连接时，优先选择同地区、延迟更低的节点，并控制同时在线设备。规则模式下可让国内站点直连，减少无关流量占用套餐额度。</p></article><article class=\"card\"><h3>流媒体观看</h3><p>基础版覆盖基础流媒体；旗舰版按全节点原生流媒体解锁来配置。建议固定一个地区节点，避免短时间内频繁切换导致播放地址失效。解锁是否可用，还取决于片源本身的地区策略。</p></article><article class=\"card\"><h3>游戏与实时通话</h3><p>对抖动敏感的对局，优先使用旗舰版中的 IPLC 专线游戏加速优化。基础版的普通线路节点池更适合浏览、消息和轻量下载。游戏线路不必用来跑大文件，以免影响同订阅下的其他设备。</p></article><article class=\"card\"><h3>小团队共用</h3><p>团队版提供更高流量、20 台设备、VIP 高带宽节点和企业定制路由，适合由管理员统一分发订阅。成员只导入地址，不自行改写公共规则，便于排查是本地客户端问题还是线路问题。</p></article></div></section><section id=\"clients\"><div class=\"panel\"><h2>客户端选择</h2><p>客户端是本页的使用重点。clashmeta 的同一条订阅可以导入不同系统，但内核、权限和入口名称并不相同。请先按自己的设备选客户端，再下载安装；不要拿 Windows 安装包去手机上运行，也不要执行来源无法核验的压缩包。</p><div class=\"clients\"><article class=\"client\"><span class=\"tag\">桌面优先</span><h3>Windows</h3><p>适合需要系统代理、规则分流和长期挂机的办公电脑。选择带 Clash Meta 或 mihomo 内核的图形客户端，导入订阅后使用规则模式，让直连与代理并存。更新订阅前退出正在独占配置文件的其他代理软件。</p></article><article class=\"client\"><span class=\"tag\">菜单栏</span><h3>macOS</h3><p>菜单栏客户端足够应付浏览器和多数办公软件。若只有浏览器需要加速，系统代理即可；终端或部分应用不跟随系统代理时，再打开增强模式或虚拟网卡，并按系统提示授予权限。</p></article><article class=\"client\"><span class=\"tag\">移动端</span><h3>Android</h3><p>建议使用 Clash Meta for Android 或同等内核应用，并按应用决定哪些流量进入代理。安装前阅读 VPN 与存储权限说明，只从你能核验的商店或发布渠道获取安装包。</p></article><article class=\"client\"><span class=\"tag\">系统限制</span><h3>iOS</h3><p>手机系统通常要求使用商店内支持订阅链接的客户端。不同应用的导入按钮位置不同，本质都是粘贴同一条 clashmeta 订阅。购买或下载前，先确认该应用在你的地区商店仍然可用。</p></article><article class=\"client\"><span class=\"tag\">开发环境</span><h3>Linux</h3><p>开发机可用图形前端，服务器可用命令行加载同一订阅。只在你有管理权限的机器上配置，不要把订阅地址提交到公开仓库、截图或群聊记录里。</p></article><article class=\"client\"><span class=\"tag\">如何决定</span><h3>选择顺序</h3><p>先看系统，再看是否需要分应用代理，最后看你是否愿意授予虚拟网卡权限。个人用户从当前主力设备开始即可；团队用户先确定管理员使用的桌面客户端，再给成员发同一份导入说明。</p></article></div><p><a href=\"#guide\">已选定系统？继续看操作说明</a></p></div></section><section id=\"plans\"><h2>机场订阅方案</h2><p>价格与额度以本页公示为准。月付适合先验证线路是否符合自己的运营商；年付是十个月的价格，适合已经确认客户端和节点类型可用的人。三个方案都使用 clashmeta 订阅，差别在流量、设备数和线路范围。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a href=\"#guide\">按此方案查看导入步骤</a></article><article class=\"plan featured\"><span class=\"tag\">主推方案</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a href=\"#support\">了解优先工单对应的支持方式</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a href=\"#support\">查看团队支持说明</a></article></div></section><section id=\"guide\"><h2>操作说明</h2><p>下面是从选套餐到完成一次连通性检查的顺序。本页是静态说明，不开通表单，也不收集账号；演示中的下载与开通入口都指向页内章节。</p><div class=\"steps\"><article class=\"step\"><h3>1. 确认额度</h3><p>按每月流量和同时在线设备数选择基础版、旗舰版或团队版。尚未确定长期使用时，先用月付验证晚高峰和常用网站，再决定是否改为年付。</p></article><article class=\"step\"><h3>2. 取得订阅</h3><p>开通后复制完整订阅地址。地址通常较长，粘贴时不要多出空格或换行。订阅相当于节点清单的钥匙，只发给自己的设备或团队管理员指定的成员。</p></article><article class=\"step\"><h3>3. 安装客户端</h3><p>回到客户端选择，按 Windows、macOS、Android、iOS 或 Linux 核对应用名称。官网下载指引只帮助你选对类型；安装包请从可信商店或可核验的发布渠道获取。</p></article><article class=\"step\"><h3>4. 导入并更新</h3><p>在客户端中找到从 URL 添加配置、导入订阅或配置文件。粘贴地址后手动更新。成功时会出现节点或策略组；失败时先核对有效期、地址完整性和本地时间。</p></article><article class=\"step\"><h3>5. 按场景选节点</h3><p>浏览和消息用普通线路；影音固定流媒体节点；游戏优先 IPLC 优化线路。选中后开启系统代理或虚拟网卡。规则模式可以减少国内流量进入代理。</p></article><article class=\"step\"><h3>6. 做连通性检查</h3><p>打开一个你原本访问缓慢的网站，确认页面能加载。若失败，依次更换同地区节点、重新更新订阅、关闭其他代理软件。仍失败时，记录客户端里的配置错误，再按套餐使用支持渠道，而不是反复安装来源不明的包。</p></article></div></section><section id=\"support\"><h2>支持方式</h2><p>基础版使用普通说明与工单排队。旗舰版包含 7x24 优先工单，适合需要尽快确认是订阅过期、设备超限还是节点异常的用户。团队版由专属客户经理对接定制路由和设备管理。联系时请准备套餐名称、客户端类型和更新订阅后的报错摘要，不要在公开页面张贴完整订阅地址。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>clashmeta 机场和 VPN 客户端是什么关系？</summary><p>客户端是装在设备上的程序，负责代理开关、规则和节点切换；clashmeta 机场提供订阅和节点池。没有有效订阅，客户端里通常没有可用节点；没有客户端，订阅也无法在本机执行。购买前先确认自己的系统有可安装的客户端。</p></details><details><summary>官网下载应该从哪里开始？</summary><p>从客户端选择开始，而不是从随意搜索到的安装包开始。先确定 Windows、macOS、Android、iOS 或 Linux，再按对应名称到可信渠道下载。本页链接只指向页内说明，避免把无法核验的文件地址写死。</p></details><details><summary>三个订阅方案怎么选？</summary><p>每月约 100GB、3 台设备、基础流媒体和普通节点，选基础版，月付 15 元，年付 150 元。需要 300GB、5 台设备、全节点流媒体和 IPLC 游戏优化，选旗舰版，月付 35 元，年付 350 元。需要 1000GB、20 台设备、高带宽节点和定制路由，选团队版，月付 85 元，年付 850 元。</p></details><details><summary>导入订阅后列表是空的怎么办？</summary><p>先看地址是否被截断，再更新一次订阅，并确认套餐未过期。空列表也可能是客户端还停在旧配置文件上，需要手动切换到刚导入的配置。若提示网络错误，先用当前网络打开普通网页，排除本地完全断网。</p></details><details><summary>多台设备可以同时使用吗？</summary><p>可以共用一条订阅，但同时在线数不能超过额度：基础版 3 台，旗舰版 5 台，团队版 20 台。超出后新设备可能连不上。不再使用的手机或电脑应退出客户端，而不是只关闭屏幕。</p></details><details><summary>加速不稳定时该怎么判断？</summary><p>先区分是所有网站都失败，还是只有某个流媒体或游戏失败。全部失败通常与订阅、客户端或本地网络有关；单个服务失败则更换同类型节点再试。晚高峰和跨运营商线路更容易抖动。页面不提供虚假的实时排名，请以客户端内延迟和实际加载结果为准。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>clashmeta 官网说明页，主题包括机场订阅、VPN 网络加速、加速器使用方式和客户端下载选择。方案价格与额度以本页公示为准。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#clients\">客户端</a> · <a href=\"#plans\">订阅</a> · <a href=\"#faq\">问答</a></p></div></footer>",
+          "hash": "4017ae9de7f1052952ce3365a806028524c2a97fc92de7860d2cf206f21feb69",
+          "seo": {
+            "title": "clashmeta 官网：机场订阅、VPN 加速与客户端下载",
+            "keywords": "clashmeta,clashmeta机场,clashmeta VPN,机场订阅,网络加速,加速器,客户端下载,官网下载",
+            "description": "clashmeta 提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版的流量与设备额度，并指导按系统选择客户端、导入订阅和完成日常连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shaofusheng.cn",
+    "host": "p-68ab54dd84.shaofusheng.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "35e578657673e587a230184081d2974d7f58ae7ffdf3fe06f255e73668d5ea34",
+    "sitemap.xml": "46b6b2631d0d19c9a16db6ca773f146eaa172654f28ef96ba1bbb1273890e570",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "92a9cd594fd99c29d90ff971776181001d5b57fb99dd95228edd6e8d234eaeeb",
+    "robots.txt": "2e67a78a20ce1c8f6dc85b5e057fe07f188fb99ab504c329f31857e8c6351fa2",
+    "e7fadeb73417659c8a8f6af6d36de7de.txt": "8639a220ac8367ea2d5e29e08d907c9bc026e08a55a0ed9058973c6018d61aca"
+  },
+  "revision": "93df3eb55bf5a1e6d5972647c60177f82bc762d31dadaf902fa361a081aad5b7"
+}
